@@ -297,7 +297,7 @@
     <!--   Header Start -->
     <header>
         <div class="header-navbar h-100">
-            <a class="navbar-brand" href="#"><b>T</b><span>TurtleS</span></a>
+            <a class="navbar-brand" href="#hero"><b>T</b><span>TurtleS</span></a>
             <ul class="list-group menu text-center" id="menu">
                 <li class="list-group-item"><a class="active" href="#hero"><i class="fa fa-home"></i><span>home</span></a></li>
                 <li class="list-group-item"><a href="#about"><i class="fa fa-user"></i><span>about</span></a></li>
