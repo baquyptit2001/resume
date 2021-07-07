@@ -324,7 +324,7 @@
                         <div class="col-lg-6 order-2 order-lg-1">
                             <div class="hero-content">
                                 <h1 class="mb-3">I'M Ba Quy (TurtleS)</h1>
-                                <h4 class="text-capitalize mb-0"><span class="base-color">A  </span> <span class="element" data-elements="Web Developer.,Student.,Ambitious GenZ."></span></h4>
+                                <h4 class="text-capitalize mb-0"><span class="base-color">A(An)  </span> <span class="element" data-elements="Web Developer.,Student.,Ambitious GenZ."></span></h4>
                                 <p class="max-width-450 mx-0 my-4 text-center">“Ruby is rubbish! PHP is phpantastic!” – Nikita Popov.</p>
                                 <ul class="list-inline hero-social">
                                     <li class="list-inline-item">
