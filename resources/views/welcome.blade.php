@@ -406,7 +406,7 @@
                                         <div class="col-6 personal-info">
                                             <ul class="list-unstyled pt-4">
                                                 <li>
-                                                    <p>Age : <span> 21</span></p>
+                                                    <p>Age : <span> {{ $year-2001 }}</span></p>
                                                 </li>
                                                 <li>
                                                     <p>Degree : <span> Bachelor</span></p>
