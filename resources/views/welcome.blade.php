@@ -393,7 +393,7 @@
                                                     <p>Birthday : <span> 20 January 2001</span></p>
                                                 </li>
                                                 <li>
-                                                    <p>Website : <span> www.retrina.com</span></p>
+                                                    <p>Website : <span> <a href="https://baquyresume.herokuapp.com" target="_blank" rel="noopener noreferrer" style="color: #d31d4d">My Website</a></span></p>
                                                 </li>
                                                 <li>
                                                     <p>Phone : <span> +84 973 043 445</span></p>
@@ -593,7 +593,7 @@
                             <div class="col-lg-12">
                                 <div class="text-center title">
                                     <h2 class="text-dark">Get <span class="base-color">in Touch</span></h2>
-                                    <p class="text-muted mb-5 max-width-450">In a professional context it often happens that private clients corder a publication to be made.</p>
+                                    <p class="text-muted mb-5 max-width-450">“ In order to be irreplaceable, one must always be different” – Coco Chanel</p>
                                 </div>
                             </div>
                         </div>
@@ -604,8 +604,8 @@
                                         <i class="lni-phone-handset size-md"></i>
                                     </div>
                                     <div class="mt-3">
-                                        <h5 class="text-dark mb-0">Call Us On</h5>
-                                        <small class="text-muted">+84 973 043 445</small>
+                                        <h5 class="text-dark mb-0">Call Me On</h5>
+                                        <small class="text-muted"><a href="tel:0973043445" style="color: #d2d2d2">+84 973 043 445</a></small>
                                     </div>
                                 </div>
                             </div>
@@ -626,7 +626,7 @@
                                         <i class="lni-pointer size-md"></i>
                                     </div>
                                     <div class="mt-3">
-                                        <h5 class="text-dark mb-0">Email Us At</h5>
+                                        <h5 class="text-dark mb-0">Email Me At</h5>
                                         <small class="text-muted"><a href="mailto:quynb201@gmail.com" style="color: #d2d2d2">quynb201@gmail.com</a></small>
                                     </div>
                                 </div>
