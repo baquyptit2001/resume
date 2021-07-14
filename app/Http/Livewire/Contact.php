@@ -25,7 +25,7 @@ class Contact extends Component
     {
         if(filter_var($this->email, FILTER_VALIDATE_EMAIL) and $this->title!='' and $this->message!='' and $this->name !=''){
             Mail::send('mail', array('name'=>$this->name,'email'=>$this->email,'mess'=>$this->message), function($message){
-                $message->to($this->email, 'Visitor')->subject($this->title);
+                $message->to('quynb201@gmail.com')->subject($this->title);
             });
             $this->email = '';
             $this->title = '';
